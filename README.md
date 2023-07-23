@@ -1,4 +1,4 @@
-# 3D T-shirt 📆
+# 3D T-shirt 👚
 
 Página web que permite customizar una camiseta 3D realizada con el objetivo de implementar three js y afianzar conocimientos frontend.
 
